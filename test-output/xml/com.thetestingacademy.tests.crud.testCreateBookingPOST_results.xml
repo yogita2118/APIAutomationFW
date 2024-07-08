@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Study Materials/Online Cources/Automation Testing course by Pramod dutta/Projects/APIAutomation"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.727">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreateBooking"
+                time="1.727"
+                classname="com.thetestingacademy.tests.crud.testCreateBookingPOST">
+            </testcase>
+</testsuite>
