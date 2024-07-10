@@ -8,6 +8,15 @@
                     <include name="testCreateBooking"/>
                 </methods>
             </class>
+            <class name="com.thetestingacademy.tests.integration.TCIntegration">
+                <methods
+                ><include name="testCreateBooking"/>
+                    <include name="testVerifyBookingId"/>
+
+                    <include name="testUpdateBookingById"/>
+                    <include name="testDeleteBookingById"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>

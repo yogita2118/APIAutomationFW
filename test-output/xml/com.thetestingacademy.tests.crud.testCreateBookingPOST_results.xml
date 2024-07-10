@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.727">
+           time="3.033">
     <properties></properties>
 
 
 
             <testcase
                 name="testCreateBooking"
-                time="1.727"
+                time="3.033"
                 classname="com.thetestingacademy.tests.crud.testCreateBookingPOST">
             </testcase>
 </testsuite>
